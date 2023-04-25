@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VanessaSouldev
-- 👀 I’m interested in in fullstack development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning frontend at Novi hogeschool
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ At the moment I’m looking to collaborate on creating a functioning frontend website with REACT ;-)
+- 📫 How to reach me vanessasouldev@gmail.com
 
 <!---
 VanessaSouldev/VanessaSouldev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
